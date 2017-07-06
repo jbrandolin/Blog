@@ -1,2 +1,2 @@
 # Blog
-Blog practica
+Blog de practica
